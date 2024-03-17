@@ -1,0 +1,5 @@
+middelware quant la session est expiré
+
+message pour client a la place de message d'exception(numero longue lors d'une commande, creation de la boutique lorsqu'il y'a le champs vide ou unique,toutes les exceptions doivent etre capturée et remplacées par un message au client)
+
+quand on suprime un produit on doit suprimer tout ses reference(commande,etc)
